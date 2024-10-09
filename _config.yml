@@ -21,7 +21,7 @@
 title: FIDELITY
 email: fidelityuja@ujaen.es
 description: >- # this means to ignore newlines until "baseurl:"
-  FIDELITY Website.
+  This project has received funding from the European Union’s Horizon Europe research and innovation programme under the Marie Sklodowska-Curie Postdoctoral Fellowship grant agreement No. 101106164.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "fidelityuja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fidelity_uja
