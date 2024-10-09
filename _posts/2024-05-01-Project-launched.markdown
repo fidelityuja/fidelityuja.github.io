@@ -15,6 +15,8 @@ The title of our project is: "Fairness and Explanations in Group Recommender Sys
 The overall objectives of our project are:
 
 -To develop a post-hoc explanation model for recommendation, based on local-agnostic models.
+
 -To study and develop models to improve C-fairness, P-fairness, and two-sided fairness in recommendation.
+
 -To develop post-hoc models for the local-agnostic explanation of C-, P-, and two-sided fairness in recommendation.
 
