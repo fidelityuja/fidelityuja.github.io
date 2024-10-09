@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project lauched!"
+title:  "Project launched!"
 date:   2024-05-01 12:59:40 +0200
 categories: project post
 ---
