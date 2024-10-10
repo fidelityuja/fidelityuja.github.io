@@ -4,4 +4,5 @@
 
 layout: home
 ---
-FIDELITY University of Jaén
+![imagen](https://github.com/user-attachments/assets/3d172fe9-3927-4da0-8c44-b2d007b719ea)
+
